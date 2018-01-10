@@ -1,4 +1,11 @@
-{ "versions": [{ "versiontype": "proofreading", "title": "Can integrated titles improve the viewing experience?
-","authors": [{"name": "Wendy Fox
-"}],"publishedAt": "2018-01-10T08:00:26.000Z
-"}]}
+{"versions": 
+  [
+  {
+  "versiontype": "proofreading", 
+  "title": "Can integrated titles improve the viewing experience?",
+  "authors": [
+      {"name": "Wendy Fox"}
+    ],
+    "publishedAt": "2018-01-10T08:00:26.000Z"}
+  ]
+}
