@@ -6,6 +6,13 @@
   "authors": [
       {"name": "Wendy Fox"}
     ],
-    "publishedAt": "2018-01-10T08:00:26.000Z"}
+    "publishedAt": "2018-01-10T08:00:26.000Z"},
+  {
+  "versiontype": "first_edition", 
+  "title": "Can integrated titles improve the viewing experience?",
+  "authors": [
+      {"name": "Wendy Fox"}
+    ],
+    "publishedAt": "2018-02-28T08:00:26.000Z"}
   ]
 }
