@@ -1,0 +1,166 @@
+typeface
+typographic
+caption
+legibility
+dubbing
+deaf
+interlingual
+simultaneity
+intralingual
+verbalisation
+aesthetic
+readability
+AOIs
+typography
+aesthetics
+layout
+saccade
+gaze
+usability
+eyestrain
+intuitiveness
+humour
+anime
+prologue
+synchronicity
+joke
+placement
+fixation
+font
+enjoyment
+intertitle
+synchronisation
+chunking
+serif
+sans-serif
+eye tracker
+wordplay
+abusive
+memorability
+learnability
+eye tracking
+image composition                  
+eye tracking                  
+speaking direction                  
+typographic identity                  
+fixation duration                                    
+aesthetic experience                  
+title area                                    
+speaker identification                  
+film title                  
+natural focus                                   
+information intake                  
+graphical translation                                  
+split attention                  
+gaze behaviour                  
+reading speed                                   
+typographic film identity                                    
+first fixation                  
+additional language                  
+narrative text                                    
+visual attention                                   
+communication design                                   
+scene perception                                    
+translation process                  
+viewing experience                                    
+noise source                  
+title display                                   
+indication of speaking direction                                    
+corporate design                  
+recognition value                                    
+sufficient contrast                  
+reading time                                   
+image system                  
+main focus                                  
+focus point                                  
+line break                                    
+shot composition                  
+indicating speaking direction                                   
+average reading speed                  
+noise transcription                                    
+image exploration                  
+speaker detection                                   
+visual weight                                  
+saccade length                                                      
+feedback effect                  
+design concept                  
+subtitle area                  
+top-centre area                                    
+title design                  
+speech direction                  
+overall aesthetic experience                  
+subtitle layout                  
+off-screen noise                  
+detail perception                                    
+intralingual translation                  
+attention distribution                                  
+reading behaviour                                                    
+horizontal placement                                   
+usability research                                 
+entertainment value                                   
+mean fixation duration                                   
+safe area                                   
+fixation probability                                   
+user experience                                   
+focal point                                    
+subtitle appearance                                                   
+natural gaze behaviour                                    
+overall image composition                  
+comprehensible design concept                  
+dubbing country                                                      
+average total visit duration                  
+colour-based speaker identification                  
+noise indication                                   
+subtitle placement                  
+text placement                                                    
+alleged simultaneity                                 
+deaf audience                                   
+total visit duration                  
+eye-mind hypothesis                  
+source indication                  
+post-hoc questionnaire                                                     
+scene selection                                   
+speaker position                  
+presentation speed                                                     
+auditory channel                                    
+acoustic feedback                  
+interface design                                    
+perceptual span                  
+visual channel                  
+negative feedback effect                  
+visit duration                                    
+primary area                  
+scan path                  
+processing effort                  
+literal translation                                    
+line spacing                  
+saturation index                                    
+reaction time                                    
+fixation point                                   
+pupil size                                    
+machine translation                                   
+combined average attention                  
+positive split attention                                  
+seamless branching                                    
+cinematic composition                  
+colour concept                  
+concept of typographic identity                                    
+subtitle design                  
+typographic design                  
+title designer                  
+fast-paced dialogue                  
+subtitle disappearance                  
+visual attention distribution                  
+culture-specific element                                   
+viewing experience                                   
+reduced eyestrain                  
+negative acoustic feedback                                   
+word fixation                  
+typographic identity                                   
+plot-relevant image                  
+indication of noise source                                    
+difficulty extracting information                                    
+individual title placement                                                   
+subtitling practice                  
+word fixation probability                  
+post-production process                  
